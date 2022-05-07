@@ -1,2 +1,2 @@
-# Reposit-rioL
+# Reposit
 Primeiro Repositório :)
